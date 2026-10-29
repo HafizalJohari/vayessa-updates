@@ -1,7 +1,7 @@
 {
-  "version": "0.9.0",
-  "build": 57,
+  "version": "0.9.2",
+  "build": 60,
   "date": "2026-10-29",
-  "notes": "AI voice-over with ElevenLabs, using your own ElevenLabs key.",
-  "url": "https://github.com/HafizalJohari/vayessa-releases/releases/tag/v0.9.0-build57"
+  "notes": "- Fixed: choosing a Voice Library voice (for example AFIFAH) on a free ElevenLabs plan said \"characters used up\". It now says that the free plan cannot use Voice Library voices from other apps, and to pick a default voice or upgrade.",
+  "url": "https://github.com/HafizalJohari/vayessa-releases/releases/tag/v0.9.2-build60"
 }
