@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "build": 71,
+  "version": "1.0.1",
+  "build": 72,
   "date": "2026-10-30",
-  "notes": "VAYESSA Free, Pro and Studio. Buy a license at vayessa.app/buy.",
-  "url": "https://github.com/HafizalJohari/vayessa-releases/releases/tag/v1.0.0-build71"
+  "notes": "- New transition Focus Strips, in Left, Right, Up and Down. The frame splits into three strips: one after another a soft, blurred copy of the next photo pushes the old one out, then the sharp photo slides in strip by strip, so focus sweeps across the frame. It looks best at about 1.6 seconds.",
+  "url": "https://github.com/HafizalJohari/vayessa-releases/releases/tag/v1.0.1-build72"
 }
