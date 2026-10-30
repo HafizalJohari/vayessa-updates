@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "build": 72,
+  "version": "1.0.2",
+  "build": 79,
   "date": "2026-10-30",
-  "notes": "- New transition Focus Strips, in Left, Right, Up and Down. The frame splits into three strips: one after another a soft, blurred copy of the next photo pushes the old one out, then the sharp photo slides in strip by strip, so focus sweeps across the frame. It looks best at about 1.6 seconds.",
-  "url": "https://github.com/HafizalJohari/vayessa-releases/releases/tag/v1.0.1-build72"
+  "notes": "- Security: VAYESSA now runs on Electron 45 (was 33), with the newest Chromium and Node security fixes. It needs macOS 13 Ventura or later. Download it at vayessa.app/download.",
+  "url": "https://vayessa.app/download/"
 }
