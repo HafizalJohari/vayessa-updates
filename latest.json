@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "build": 82,
-  "date": "2026-10-30",
-  "notes": "- The toolbar shows your plan, FREE, PRO or STUDIO, under the VAYESSA name. It changes as soon as you activate, check or remove a license. Click it to open the License window. Download it at vayessa.app/download.",
+  "version": "1.1.0",
+  "build": 90,
+  "date": "2026-10-31",
+  "notes": "Quick Show builds and plays photos or videos immediately. Refine theme, music, title and format beside the preview, then export or open the editor. Safe Cancel, one-step undo, and fixes for video timing and project reopening. Download it at vayessa.app/download.",
   "url": "https://vayessa.app/download/"
 }
