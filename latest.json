@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
-  "build": 94,
+  "version": "1.4.0",
+  "build": 98,
   "date": "2026-11-01",
-  "notes": "Right-click menus for slides, layers and audio clips, lock and hide for layers, and First frame and Last frame buttons. Download it at vayessa.app/download.",
+  "notes": "Video editing grows up: split, freeze, speed ramps and stabilising, video on top of video, track mattes, shape masks and colour correction. Download it at vayessa.app/download.",
   "url": "https://vayessa.app/download/"
 }
