@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "build": 98,
+  "version": "1.4.1",
+  "build": 101,
   "date": "2026-11-01",
-  "notes": "Video editing grows up: split, freeze, speed ramps and stabilising, video on top of video, track mattes, shape masks and colour correction. Download it at vayessa.app/download.",
+  "notes": "Stock media with Pixabay and explainer video workflows. Download it at vayessa.app/download.",
   "url": "https://vayessa.app/download/"
 }
