@@ -1,7 +1,7 @@
 {
-  "version": "1.4.1",
-  "build": 101,
+  "version": "1.4.2",
+  "build": 104,
   "date": "2026-11-01",
-  "notes": "Stock media with Pixabay and explainer video workflows. Download it at vayessa.app/download.",
+  "notes": "Smoother video: clips keep playing through transitions. Download it at vayessa.app/download.",
   "url": "https://vayessa.app/download/"
 }
