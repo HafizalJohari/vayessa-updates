@@ -1,7 +1,11 @@
 {
-  "version": "1.4.2",
-  "build": 104,
-  "date": "2026-11-01",
-  "notes": "Smoother video: clips keep playing through transitions. Download it at vayessa.app/download.",
-  "url": "https://vayessa.app/download/"
+  "version": "1.5.0",
+  "build": 115,
+  "date": "2026-11-02",
+  "notes": "Kinetic Motion Text: After Effects–grade typography and living ambient motion. Download it at vayessa.app/download.",
+  "url": "https://vayessa.app/download/",
+  "win": {
+    "version": "1.5.0",
+    "notes": "Kinetic Motion Text: After Effects–grade typography and living ambient motion. Download it at vayessa.app/download."
+  }
 }
