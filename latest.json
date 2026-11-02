@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
-  "build": 115,
+  "version": "1.6.0",
+  "build": 121,
   "date": "2026-11-02",
-  "notes": "Kinetic Motion Text: After Effects–grade typography and living ambient motion. Download it at vayessa.app/download.",
+  "notes": "3D text: solid letters with depth, light and camera moves. Download it at vayessa.app/download.",
   "url": "https://vayessa.app/download/",
   "win": {
     "version": "1.5.0",
