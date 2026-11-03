@@ -1,11 +1,11 @@
 {
-  "version": "1.6.1",
-  "build": 125,
-  "date": "2026-11-02",
-  "notes": "Steadier 4K exports with video clips. Download it at vayessa.app/download.",
+  "version": "1.7.0",
+  "build": 132,
+  "date": "2026-11-03",
+  "notes": "Text animators: After Effects–style kinetic typography for advanced users. Download it at vayessa.app/download.",
   "url": "https://vayessa.app/download/",
   "win": {
-    "version": "1.6.1",
-    "notes": "Steadier 4K exports with video clips. Download it at vayessa.app/download."
+    "version": "1.7.0",
+    "notes": "Text animators: After Effects–style kinetic typography for advanced users. Download it at vayessa.app/download."
   }
 }
