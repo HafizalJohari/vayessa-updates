@@ -1,8 +1,8 @@
 {
-  "version": "1.7.0",
-  "build": 132,
-  "date": "2026-11-03",
-  "notes": "Text animators: After Effects–style kinetic typography for advanced users. Download it at vayessa.app/download.",
+  "version": "1.7.1",
+  "build": 134,
+  "date": "2026-11-05",
+  "notes": "Annual Recap & Kinetic Promo Templates: turn a year of photos and videos into a Spotify Wrapped, Apple Music Replay or Instagram Recap story. Download it at vayessa.app/download.",
   "url": "https://vayessa.app/download/",
   "win": {
     "version": "1.7.0",
