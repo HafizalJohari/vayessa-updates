@@ -1,11 +1,11 @@
 {
-  "version": "1.7.1",
-  "build": 134,
+  "version": "1.7.2",
+  "build": 138,
   "date": "2026-11-05",
-  "notes": "Annual Recap & Kinetic Promo Templates: turn a year of photos and videos into a Spotify Wrapped, Apple Music Replay or Instagram Recap story. Download it at vayessa.app/download.",
+  "notes": "Cleaner Annual Recap buttons and What's New text. Download it at vayessa.app/download.",
   "url": "https://vayessa.app/download/",
   "win": {
-    "version": "1.7.1",
-    "notes": "Annual Recap & Kinetic Promo Templates: turn a year of photos and videos into a Spotify Wrapped, Apple Music Replay or Instagram Recap story. Download it at vayessa.app/download."
+    "version": "1.7.2",
+    "notes": "Cleaner Annual Recap buttons and What's New text. Download it at vayessa.app/download."
   }
 }
