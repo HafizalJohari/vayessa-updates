@@ -1,11 +1,11 @@
 {
-  "version": "1.7.2",
-  "build": 138,
-  "date": "2026-11-05",
-  "notes": "Cleaner Annual Recap buttons and What's New text. Download it at vayessa.app/download.",
+  "version": "1.10.0",
+  "build": 152,
+  "date": "2026-11-08",
+  "notes": "New Look: a redesigned VAYESSA that is easier to use, with every feature still in place. Download it at vayessa.app/download.",
   "url": "https://vayessa.app/download/",
   "win": {
-    "version": "1.7.2",
-    "notes": "Cleaner Annual Recap buttons and What's New text. Download it at vayessa.app/download."
+    "version": "1.10.0",
+    "notes": "New Look: a redesigned VAYESSA that is easier to use, with every feature still in place. Download it at vayessa.app/download."
   }
 }
