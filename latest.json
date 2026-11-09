@@ -1,11 +1,11 @@
 {
-  "version": "1.10.0",
-  "build": 152,
-  "date": "2026-11-08",
-  "notes": "New Look: a redesigned VAYESSA that is easier to use, with every feature still in place. Download it at vayessa.app/download.",
+  "version": "1.11.0",
+  "build": 158,
+  "date": "2026-11-09",
+  "notes": "Text behind subject: big titles that the person or object in your photo or clip stands in front of, the look you see in reels. Pro and Studio. Download it at vayessa.app/download.",
   "url": "https://vayessa.app/download/",
   "win": {
-    "version": "1.10.0",
-    "notes": "New Look: a redesigned VAYESSA that is easier to use, with every feature still in place. Download it at vayessa.app/download."
+    "version": "1.11.0",
+    "notes": "Text behind subject: big titles that the person or object in your photo or clip stands in front of, the look you see in reels. Pro and Studio. Download it at vayessa.app/download."
   }
 }
