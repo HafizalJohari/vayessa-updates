@@ -1,11 +1,11 @@
 {
-  "version": "1.11.1",
-  "build": 161,
-  "date": "2026-11-10",
-  "notes": "Undo brings back a deleted slide again. Download it at vayessa.app/download.",
+  "version": "1.12.0",
+  "build": 165,
+  "date": "2026-11-11",
+  "notes": "New motion templates: cleaner titles, info cards and year-in-review cards with large type and soft shades instead of boxes. Download it at vayessa.app/download.",
   "url": "https://vayessa.app/download/",
   "win": {
-    "version": "1.11.1",
-    "notes": "Undo brings back a deleted slide again. Download it at vayessa.app/download."
+    "version": "1.12.0",
+    "notes": "New motion templates: cleaner titles, info cards and year-in-review cards with large type and soft shades instead of boxes. Download it at vayessa.app/download."
   }
 }
