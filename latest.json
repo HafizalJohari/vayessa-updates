@@ -1,8 +1,8 @@
 {
-  "version": "1.12.0",
-  "build": 165,
+  "version": "1.13.0",
+  "build": 169,
   "date": "2026-11-11",
-  "notes": "New motion templates: cleaner titles, info cards and year-in-review cards with large type and soft shades instead of boxes. Download it at vayessa.app/download.",
+  "notes": "Motion tracking: text, logos and shapes on a video clip follow something in the picture as the camera or the subject moves. Download it at vayessa.app/download.",
   "url": "https://vayessa.app/download/",
   "win": {
     "version": "1.12.0",
