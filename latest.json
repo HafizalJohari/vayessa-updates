@@ -1,8 +1,8 @@
 {
-  "version": "1.13.1",
-  "build": 173,
+  "version": "1.13.2",
+  "build": 176,
   "date": "2026-11-11",
-  "notes": "Copy Claude Code Command works again. Download it at vayessa.app/download.",
+  "notes": "Tidier video clip controls. Download it at vayessa.app/download.",
   "url": "https://vayessa.app/download/",
   "win": {
     "version": "1.13.0",
