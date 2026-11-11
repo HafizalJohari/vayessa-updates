@@ -1,8 +1,8 @@
 {
-  "version": "1.13.0",
-  "build": 169,
+  "version": "1.13.1",
+  "build": 173,
   "date": "2026-11-11",
-  "notes": "Motion tracking: text, logos and shapes on a video clip follow something in the picture as the camera or the subject moves. Download it at vayessa.app/download.",
+  "notes": "Copy Claude Code Command works again. Download it at vayessa.app/download.",
   "url": "https://vayessa.app/download/",
   "win": {
     "version": "1.13.0",
