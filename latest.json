@@ -1,8 +1,8 @@
 {
-  "version": "1.13.2",
-  "build": 176,
-  "date": "2026-11-11",
-  "notes": "Tidier video clip controls. Download it at vayessa.app/download.",
+  "version": "1.14.0",
+  "build": 180,
+  "date": "2026-11-12",
+  "notes": "See-through video: WebM clips with a transparent background sit on top of your photos and clips. Download it at vayessa.app/download.",
   "url": "https://vayessa.app/download/",
   "win": {
     "version": "1.13.2",
