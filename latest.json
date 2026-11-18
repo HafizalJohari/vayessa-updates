@@ -1,8 +1,8 @@
 {
-  "version": "1.15.0",
-  "build": 190,
-  "date": "2026-11-17",
-  "notes": "Corner pin and surface tracking: put text on a wall, a sign or the road, in perspective, and keep it there as the camera moves. Download it at vayessa.app/download.",
+  "version": "1.16.0",
+  "build": 192,
+  "date": "2026-11-18",
+  "notes": "Move layers between slides in the timeline, one at a time or several together. Download it at vayessa.app/download.",
   "url": "https://vayessa.app/download/",
   "win": {
     "version": "1.13.2",
